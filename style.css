@@ -99,7 +99,7 @@
    padding:10px 15px;
    font-size: 17px;
    margin:8px 0;
-   background: #eee;
+   background-image: url('pexels-pixabay-207247.jpg');
    border-radius: 5px;
 }
 
@@ -113,6 +113,7 @@
    text-transform: capitalize;
    font-size: 20px;
    cursor: pointer;
+   border-color: black;
 }
 
 .form-container form .form-btn:hover{
